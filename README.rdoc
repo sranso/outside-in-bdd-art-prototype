@@ -1,3 +1,8 @@
+- sums of 
+- prototype
+- artist has pieces of work lent out to other museums. where is his art, how much does each museum have of his art $-wise
+- sorting features - museums based on how much of my money and paintings they have
+- 
 == README
 
 This README would normally document whatever steps are necessary to get the
